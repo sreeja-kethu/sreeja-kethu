@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kethu Sreeja</h1>
 <h3 align="center">I am student at SRM University</h3>
 
-- 🌱 I’m currently learning *Data-Structures and Algorithms.*
+- 🌱 I’m currently learning *Full stack developer.*
 
 - ⚡ Fun fact *I am Funny.*
 
