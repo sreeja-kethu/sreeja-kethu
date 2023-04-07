@@ -5,6 +5,10 @@
 
 - ⚡ Fun fact *I am Funny.*
 
+- 👩‍💻 Iam a web developer.*
+
+- ❓ Ask me about HTML,CSS,JAVA.*
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
