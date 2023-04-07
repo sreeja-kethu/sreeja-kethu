@@ -15,7 +15,7 @@
 
   
 <hr/>
-<h2 align="center"> GITHUB ACTIVITY 📊:</h2>
+<h2 align="left"> GITHUB ACTIVITY 📊:</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sreeja-kethu&&show_icons=true&theme=algolia&hide_border=true" alt="Sreeja GitHub Stats">
