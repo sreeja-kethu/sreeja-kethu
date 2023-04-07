@@ -11,13 +11,14 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/java/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40/> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/java/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40/> 
+ </p>
   
 
 <hr/>
-<h2 align="left"> GITHUB ACTIVITY 📊:</h2>
+<h2 align="center"> GITHUB ACTIVITY 📊:</h2>
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sreeja-kethu&&show_icons=true&theme=algolia&hide_border=true" alt="Sreeja GitHub Stats">
   <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeja-kethu&layout=compact&&show_icons=true&&theme=algolia&hide_border=true" alt="sreeja-kethuGitHub Stats">
