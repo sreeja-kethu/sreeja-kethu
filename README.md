@@ -26,7 +26,4 @@
   <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreeja-kethu&&show_icons=true&&theme=algolia&hide_border=true" alt="sreeja-kethu* GitHub Stats"> 
   </p>
-
-
-[![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=sreeja-kethu&theme=react-dark)](https://github.com/sreeja-kethu/github-readme-activity-graph)
 <br />
